@@ -4,8 +4,6 @@ PharmaLens is a **menu-driven Pharma Management System** developed using **Pytho
 It demonstrates core programming concepts such as **Object-Oriented Programming (OOP)**,  
 **file handling with CSV**, **modular package structure**, and **data visualization using Matplotlib**.
 
-This project is suitable for **academic submission, GitHub portfolio, and Python practice**.
-
 ---
 
 ## Features
