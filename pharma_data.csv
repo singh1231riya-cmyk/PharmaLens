@@ -1,0 +1,9 @@
+Drug_Name,Category,Manufacturer,Monthly_Sales,Price,Adverse_Events
+Paracetamol,Analgesic,Cipla,"100, 85, 80, 150",35.0,5
+Ibuprofen,NSAID,Sun Pharma,"80, 95, 100, 110",30.0,8
+Amoxicillin,Antibiotic,Dr Reddy's,"50, 60, 65, 70",70.0,12
+Cetirizine,Antihistamine,Lupin,"90, 100, 105, 110",20.0,3
+Azithromycin,Antibiotic,Alkem,"40, 45, 50, 55",110.0,15
+Metformin,Anitdiabetic,USV,"80, 75, 90, 100",30.0,6
+Amlodipine,Cardiac,Pfizer,"30, 35, 40, 45",90.0,9
+Saridon,Headache,Parimal,"80, 75, 60, 100",40.0,4
